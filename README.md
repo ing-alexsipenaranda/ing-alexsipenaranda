@@ -59,19 +59,6 @@
 
 ---
 
-## 🧩 Featured Projects  
-
-### 🛒 [Dropshi.co](https://dropshi.co)  
-Multi-category eCommerce platform built with **WordPress + WooCommerce**, connected to logistics APIs and automation scripts for product management.
-
-### ⚙️ SupplyTrack  
-Backend integration layer for **Odoo**, built with **Node.js + Express + JWT**, handling authentication, invoices, and product synchronization.
-
-### 📊 Epicor Automation Suite  
-Custom automation scripts and BPM logic to streamline packing validation, invoice grouping, and data export for **Epicor ERP**.
-
----
-
 ## 📈 Currently Working On  
 - Building a full-stack app with **React + NestJS + Railway Oriented Programming (ROP)** pattern  
 - Optimizing ERP data synchronization and automation pipelines  
