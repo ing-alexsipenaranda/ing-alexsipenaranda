@@ -68,7 +68,7 @@
 ## 🤝 Let's Connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/williampenaranda/">
+  <a href="https://www.linkedin.com/in/william-alexsi-pe%C3%B1aranda-castro-375050274/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.ingalexsi.com">
