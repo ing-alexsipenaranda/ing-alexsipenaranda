@@ -24,7 +24,7 @@
 - 📫 Reach me at [contacto@ingalexsi.com](mailto:contacto@ingalexsi.com).  
 - 💼 Portfolio: <a href="https://www.ingalexsi.com" target="_blank">www.ingalexsi.com</a>  
 
-<a href="mailto:william@ingalexsi.com" target="blank">
+<a href="mailto:contacto@ingalexsi.com" target="blank">
   <img align="center" src="https://img.shields.io/badge/william@ingalexsi.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
@@ -74,7 +74,7 @@
   <a href="https://www.ingalexsi.com">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  <a href="mailto:william@ingalexsi.com">
+  <a href="mailto:contacto@ingalexsi.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
